@@ -2,7 +2,7 @@
 
 normalizeStaining code copied from https://github.com/schaugf/HEnorm_python
 
-# license info for normalizeStaining:
+## license info for normalizeStaining:
 
 Copyright (c) 2019, Mitko Veta(1), Geoffrey F. Schau(2)
 1 Image Sciences Institute
